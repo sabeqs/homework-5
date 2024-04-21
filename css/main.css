@@ -1,0 +1,61 @@
+body{
+    padding: 20px;
+    padding-left: 30px;
+}
+
+#svg{
+    float: left;
+    
+}
+
+a{
+    padding-left: 40px;
+    font-weight: 700;
+    font-size: 26px;
+    text-decoration: none;
+    color:#8D81FF;
+}
+
+#main{
+    color:#4E6FAE;
+}
+
+.date{
+    padding: 10px;
+    background-color: #5012D5;
+    display: inline-block;
+    color:  #84FF81;
+    
+}
+
+.month{
+    font-family: "BPG Nino Mkhedruli", sans-serif;
+    font-size: 34px;
+    margin-top: 20px;
+    color: #8D81FF;
+    margin-bottom: -10px;
+}
+
+.heading{
+    color: #4E6FAE;
+    font-weight: 700;
+    font-size: 20px;
+    font-family: "BPG Algeti Compact", sans-serif;
+}
+
+.sur{
+    float: left;
+    margin-right: 50px;
+}
+
+.text{
+    display: block;
+    color: #4E6FAE;
+    font-size: 16px;
+    font-weight: 700px;
+    font-family: "ALK Tommaso", sans-serif;
+}
+
+.pd{
+    padding-left: 30px;
+}

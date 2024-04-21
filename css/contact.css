@@ -1,0 +1,27 @@
+p{
+    margin-top: 100px;
+    font-family: "BPG Mikheil Stefane", sans-serif;
+}
+
+body{
+    padding: 20px;
+    padding-left: 30px;
+}
+
+#svg{
+    float: left;
+    
+}
+
+a{
+    padding-left: 40px;
+    font-weight: 700;
+    font-size: 26px;
+    text-decoration: none;
+    color:#8D81FF;
+}
+
+#contact{
+    color:#4E6FAE;
+}
+
